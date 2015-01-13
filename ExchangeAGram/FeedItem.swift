@@ -2,7 +2,7 @@
 //  FeedItem.swift
 //  ExchangeAGram
 //
-//  Created by Imad Zammar on 2015-01-12.
+//  Created by Imad Zammar on 2015-01-13.
 //  Copyright (c) 2015 DBI. All rights reserved.
 //
 
